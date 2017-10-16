@@ -7,3 +7,5 @@ Steps to setup on local.
 3. For development run "npm start"
 4. For production deployement run "npm run build-prod".
 5. Distribution files will be in public/ directory
+
+Currently hosted at: http://thesensibleindian.com/ using gh-pages & custom domain integration
